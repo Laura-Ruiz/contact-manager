@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "ABC123nw1",
+      "name": "Alice",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "mobile": "698909232",
+      "email": "alice@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL Technologies",
+      "groupId": "1"
+    },
+    {
+      "id": "D6BNdW123",
+      "name": "Maria",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOpnOlqXaISbhngZxPgnI8UfThhWaK4Rp-jCmQjDAsEg8tOGClk8pRjF_1-O73jtRy0c&usqp=CAU",
+      "mobile": "649938452",
+      "email": "maria@gmail.com",
+      "title": "Youtuber",
+      "company": "YoutTube",
+      "groupId": "3"
+    },
+    {
+      "id": "BBxdwS486",
+      "name": "Marco",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+      "mobile": "698909232",
+      "email": "marco@gmail.com",
+      "title": "Frontend Developer",
+      "company": "HCL Technologies",
+      "groupId": "4"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Paco",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219988.png",
+      "mobile": "698909232",
+      "email": "paco@gmail.com",
+      "title": "Freelancer",
+      "company": "Friend",
+      "groupId": "2"
+    },
+    {
+      "name": "Laura",
+      "photo": "https://cutewallpaper.org/cdn-cgi/mirage/dd19f2d06ebc24f541f142b37b4289ffa7de722a7607e39984c5c6dd4ce8defd/1280/24/avatar-png/index-of-assetsglobalimagesavatars.png",
+      "mobile": "675894032",
+      "email": "laura@gmail.com",
+      "company": "hjk",
+      "title": "Frontend Developer",
+      "groupId": "2",
+      "id": "FJc8VOy"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
